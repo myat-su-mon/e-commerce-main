@@ -1,0 +1,16 @@
+.btn{
+    outline: none;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+.btn-success {
+    background-color: rgb(131, 215, 131);
+    color: white;
+}
+.btn-danger {
+    background-color: rgb(221, 60, 60);
+    color: white;
+}
